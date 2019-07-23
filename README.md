@@ -1,1 +1,5 @@
-# userdesmi182a1dcdeguzman
+# USERDES Needfinding
+
+## Team members
+* Kinnirt Mill Espiritu
+* David Aldwin De Guzman
